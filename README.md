@@ -1,13 +1,12 @@
-# Featuristic Registration Page
-Welcome to the Feature-Rich Registration Page repository! This project provides a registration page with a variety of features for user sign-up.
+# Featuristic Forgot Password Page
+Welcome to the Feature-Rich Password Reset Page repository! This project provides a Password Reset page with a variety of features for user forgot thait password.
 
 
 ## Features
 
-- User-friendly registration form
+- User-friendly forgot password form
 - Customizable input validation
 - Provides an engaging interface with interactive buttons and animations.
-- Ensures a secure regisration experience with customizable form fields.
 - Responsive design for various devices
 
 ## Technologies Used
@@ -18,7 +17,7 @@ Welcome to the Feature-Rich Registration Page repository! This project provides 
 
 ## Preview
 
-[Live Preview](https://noscreator.github.io/featurastic-registration-page/)
+[Live Preview](https://noscreator.github.io/featurastic-forgot-password-page/)
 
 
 ## Usage
@@ -26,7 +25,7 @@ Welcome to the Feature-Rich Registration Page repository! This project provides 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/noscreator/featuristic-registration-page.git
+   git clone https://github.com/noscreator/featuristic-forgot-password-page.git
    ```
 
 2. Open `index.html` in your preferred web browser.
@@ -36,7 +35,7 @@ Welcome to the Feature-Rich Registration Page repository! This project provides 
 ## File Structure
 
 ```plaintext
-featuristic-regisration-page/
+featuristic-forgot-password-page/
 ├── index.html
 ├── css/
 │   ├── style.css
